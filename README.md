@@ -1,8 +1,7 @@
 ---
-title: Tejas Orchestration Protocol (TOP):  
-A Novel Synthetic Data Generation Technique for Decarbonizing AI  
-author: Keyur Ahuja  
-date: 2025-05-22  
+title: "Tejas Orchestration Protocol (TOP): A Novel Synthetic Data Generation Technique for Decarbonizing AI"
+author: "Keyur Ahuja"
+date: "2025-05-22"
 ---
 
 # Abstract
