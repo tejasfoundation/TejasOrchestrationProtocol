@@ -1,9 +1,11 @@
-📄 [View this paper as a live site](http://tejasfoundation.github.io/TejasOrchestrationProtocol/)
-
 ---
 Title: "Tejas Orchestration Protocol (TOP): A Novel Synthetic Data Generation Technique for Decarbonizing AI"
 Author: "Keyur Ahuja"
 Date: "2025-05-22"
+---
+
+📄 [View this paper as a live site](http://tejasfoundation.github.io/TejasOrchestrationProtocol/)
+
 ---
 
 # Abstract
