@@ -111,39 +111,4 @@ The **Tejas Orchestration Protocol (TOP)** offers a transformative path forward 
 
 ---
 
-# References
-
-1. **Struppek, L., Schott, L., Heinzinger, M., et al.** (2022). *State of the Art in Synthetic Data: A Review*.  
-   _arXiv:2205.10784_. [https://arxiv.org/abs/2205.10784](https://arxiv.org/abs/2205.10784)
-
-2. **Raji, I. D., et al.** (2020). *Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing*.  
-   _FAT* '20_. [https://doi.org/10.1145/3351095.3372873](https://doi.org/10.1145/3351095.3372873)
-
-3. **Rolnick, D., et al.** (2019). *Tackling Climate Change with Machine Learning*.  
-   _arXiv:1906.05433_. [https://arxiv.org/abs/1906.05433](https://arxiv.org/abs/1906.05433)
-
-4. **Birhane, A., Kalluri, P., Card, D., et al.** (2022). *The Values Encoded in Machine Learning Research*.  
-   _FAccT '22_. [https://doi.org/10.1145/3531146.3533213](https://doi.org/10.1145/3531146.3533213)
-
-5. **Tu, Z., et al.** (2023). *Low-Carbon AI: How to Reduce the Carbon Footprint of Artificial Intelligence*.  
-   _arXiv:2301.06217_. [https://arxiv.org/abs/2301.06217](https://arxiv.org/abs/2301.06217)
-
-6. **Biewald, L.** (2021). *Synthetic Data Is the Future of Machine Learning*.  
-   _Forbes_. [https://www.forbes.com/sites/robtoews/2021/11/01/synthetic-data-is-the-future-of-machine-learning/](https://www.forbes.com/sites/robtoews/2021/11/01/synthetic-data-is-the-future-of-machine-learning/)
-
-7. **Goodfellow, I., et al.** (2014). *Generative Adversarial Nets*.  
-   _NeurIPS_. [https://papers.nips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html](https://papers.nips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
-
-8. **OpenAI.** (2023). *GPT-4 Technical Report*.  
-   [https://openai.com/research/gpt-4](https://openai.com/research/gpt-4)
-
-9. **Malik, M., et al.** (2023). *Data-centric AI: A Survey*.  
-   _arXiv:2301.02331_. [https://arxiv.org/abs/2301.02331](https://arxiv.org/abs/2301.02331)
-
-10. **European Commission.** (2020). *Green AI: The European Strategy for Sustainable AI*.  
-    [https://ec.europa.eu](https://ec.europa.eu)
-
----
-
 *Thank you for exploring the future of green AI with TOP.*
-
